@@ -1,5 +1,5 @@
-<h1 align="center">HELLO! 👋, I'm Zou Gang, a Full Stack Web Developer</h1>
-<h3 align="center">You are welcome!.</h3>
+<h1 align="center">Hi! 👋, I'm Zou Gang, a Full Stack Web Developer</h1>
+<h3 align="center">You are welcome!</h3>
 
 <div align="center">
 <img
