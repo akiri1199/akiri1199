@@ -82,10 +82,18 @@
       height="40"
     />
   </a>
-  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
+   <a href="https://www.wordpress.org/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg"
       alt="haskell"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.haskell.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"
+      alt="wordpress"
       width="40"
       height="40"
     />
